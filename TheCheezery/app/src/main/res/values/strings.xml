@@ -1,26 +1,33 @@
 <resources>
     <string name="app_name">TheCheezery</string>
-    <string name="welcome_text">Welcome to the Cheezery! </string>
-    <string name="welcome_description">Home of the most wonderful desserts ever seen (and tasted) by the human beign. </string>
-    <string name="button_start">Get Start </string>
+    <string name="welcome">Welcome to The Cheezery!</string>
+    <string name="description">Home of the most wonderful desserts ever seen (and tested) by the human being.</string>
+    <string name="get_started">Get started!</string>
+
+    <!-- fonts families -->
+    <string name="light">sans-serif-light</string>
+    <string name="condensed">sans-serif-condensed</string>
+    <string name="thin">sans-serif-thin</string>
+    <string name="medium">sans-serif-medium</string>
+    <string name="regular">sans-serif</string>
+
+    <!-- register fields -->
+
     <string name="name">Name</string>
-    <string name="last_name">Last Name</string>
-    <string name="e_mail">E-Mail</string>
+    <string name="last_name">Last name</string>
+    <string name="email">E-mail</string>
     <string name="password">Password</string>
-    <string name="terms">I have read and accept terms and condition of the Cheezery</string>
-    <string name="sing_in">Sing in</string>
-    <string name="out_menu">Out menu</string>
-    <string name="cold_drinks">Cold drinks</string>
-    <string name="hot_drinks">Hot drinks</string>
-    <string name="sweets">Sweets </string>
-    <string name="salties">Salties </string>
-    <string name="combos">Combos </string>
-    <string name="customizable">Custom</string>
+    <string name="conditions">I have read and accept
+        terms and conditions of the Cheezery</string>
+    <string name="sign_in">Sign in</string>
 
-
-
-
-
-
+    <!-- menu fields -->
+    <string name="menu_title">OUR MENU</string>
+    <string name="btn1">Cold drinks</string>
+    <string name="btn2">Hot drinks</string>
+    <string name="btn3">Sweets</string>
+    <string name="btn4">Salties</string>
+    <string name="btn5">Combos</string>
+    <string name="btn6">Personalized</string>
 
 </resources>
